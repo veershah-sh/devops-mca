@@ -6,6 +6,6 @@ def calc_result(m1,m2):
 
 def testing():
     print(calc_result(55,20))
-    print(calc_result(70,-20))
+    print(calc_result(70,30))
 
 testing()
